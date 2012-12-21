@@ -1,0 +1,8 @@
+{
+"package":"current_courses",
+"module":"current_courses",
+"message":true,
+"clean":true,
+"source_directory":"/Users/MorehouseJ09/Documents/courses",
+"destination_directory":"/Users/MorehouseJ09/MorehouseJ09/college/usc_spring_2013"
+}

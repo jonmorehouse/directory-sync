@@ -1,0 +1,8 @@
+{
+"package":"amazon",
+"module":"documents",
+"message":true,
+"clean":true,
+"source_directory":"/Users/MorehouseJ09/Documents/programs",
+"destination_directory":"/Users/MorehouseJ09/amazon/programs"
+}

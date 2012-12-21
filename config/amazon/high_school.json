@@ -1,0 +1,8 @@
+{
+"package":"amazon",
+"module":"general_school",
+"message":true,
+"clean":true,
+"source_directory":"/Users/MorehouseJ09/MorehouseJ09/high_school",
+"destination_directory":"/Users/MorehouseJ09/amazon/high_school"
+}

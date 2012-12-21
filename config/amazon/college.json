@@ -1,0 +1,8 @@
+{
+"package":"amazon",
+"module":"college",
+"message":true,
+"clean":true,
+"source_directory":"/Users/MorehouseJ09/MorehouseJ09/college",
+"destination_directory":"/Users/MorehouseJ09/amazon/college"
+}

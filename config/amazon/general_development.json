@@ -1,0 +1,8 @@
+{
+"package":"amazon",
+"module":"documents",
+"message":true,
+"clean":true,
+"source_directory":"/Users/MorehouseJ09/Documents/general_development",
+"destination_directory":"/Users/MorehouseJ09/amazon/general_development"
+}

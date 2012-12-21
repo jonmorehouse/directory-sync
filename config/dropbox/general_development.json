@@ -1,0 +1,8 @@
+{
+"package":"Dropbox",
+"module":"documents",
+"message":true,
+"clean":true,
+"source_directory":"/Users/MorehouseJ09/Documents/general_development",
+"destination_directory":"/Users/MorehouseJ09/Dropbox/general_development"
+}
