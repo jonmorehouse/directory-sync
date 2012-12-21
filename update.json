@@ -1,0 +1,2 @@
+{ "_id" : { "$oid" : "50d2ccbc62c94da8f12f4248" }, "module" : "global_config", "clean" : false, "message" : false, "banned_global_files" : [ ".DS_Store", ".ds_store", "Icon?", ".dropbox.cache", ".pyc", ".o" ], "banned_global_directories" : [ ".git" ], "banned_directories" : [], "banned_files" : [] }
+{ "_id" : { "$oid" : "50d4e667d9ee4d5dfe44cdf6" }, "clean" : true, "destination_directory" : "/Users/MorehouseJ09/Dropbox/courses", "message" : true, "module" : "documents", "package" : "test", "source_directory" : "/Users/MorehouseJ09/Documents/courses" }
