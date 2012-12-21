@@ -1,0 +1,9 @@
+{	
+	"package" : "amazon",
+	"module" : "documents",
+	"message": true,
+	"clean": true,
+	"source_directory" : "/Users/MorehouseJ09/Documents/resources",
+	"banned_files": [".pyc"],
+	"destination_directory" : "/Users/MorehouseJ09/amazon/resources"
+}

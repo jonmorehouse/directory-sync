@@ -1,0 +1,9 @@
+{
+	"module": "global_config",
+	"clean": false,
+	"message": false,
+	"banned_global_files" : [".DS_Store", ".ds_store", "Icon?", ".dropbox.cache", ".pyc", ".o"],
+	"banned_global_directories" : [".git"],
+	"banned_directories" : [],
+	"banned_files" : []
+}
