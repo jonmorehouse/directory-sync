@@ -23,7 +23,7 @@ def list_dir(path):
 	for item in os.listdir(path):#get all objects
 
 		# don't include cwd or pwd (current / previous working directories)
-		if item == "." or item == ".." or item.find(".git") == -1:
+		if item == "." or item == ".." or item.find(".git") != -1:
 			continue #skip this iteration
 
 		# this is a file
