@@ -1,6 +1,6 @@
 {
 "package":"dropbox",
-"module":"documents",
+"module":"courses",
 "message":true,
 "clean":true,
 "source_directory":"/Users/MorehouseJ09/Documents/courses",

@@ -1,6 +1,6 @@
 {
 "package":"dropbox",
-"module":"documents",
+"module":"personal",
 "message":true,
 "clean":true,
 "source_directory":"/Users/MorehouseJ09/Documents/personal",
