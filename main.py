@@ -7,17 +7,16 @@ from modules import *
 from classes import *
 from global_classes import *
 
+base_path = "/Users/MorehouseJ09/Documents/programs/python/directory_sync"
 
 # this function is responsible for getting the configuration file and exiting if it does not exist
 def config():
 	# PATH INITIALIZATION -- FOR DATA!
-	base_path = os.path.abspath(os.getcwd())
 
-	# APPLICATION SETTINGS PATH -- IF YOU CHANGE THE APPLICATION FILE LOCATION CHANGE THIS!
-	application_config = os.path.join(base_path,"application.json")
+	application_file = os.path.join(base_path, "application.json")
 
 	# validate the application configuration before anything else!
-	if not os.path.exists(application_config) or not load.valid_json(application_config):
+	if not os.path.exists(application_file) or not load.valid_json(application_file):
 
 		# not valid json
 		print "Invalid Application Configuration"
@@ -25,7 +24,7 @@ def config():
 
 	else:#application found -- initialize the object of application
 		
-		_config = load.json_file(application_config)
+		_config = load.json_file(application_file)
 		_config['base_path'] = base_path
 		return _config
 
