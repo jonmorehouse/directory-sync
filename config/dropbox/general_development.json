@@ -4,5 +4,6 @@
 "message":true,
 "clean":true,
 "source_directory":"/Users/MorehouseJ09/Documents/general_development",
-"destination_directory":"/Users/MorehouseJ09/Dropbox/general_development"
+"destination_directory":"/Users/MorehouseJ09/Dropbox/general_development",
+"banned_directories" : ["public_code"]
 }
